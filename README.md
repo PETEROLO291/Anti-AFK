@@ -1,3 +1,7 @@
+# Anti AFK
+
+[![Download Anti AFK](https://img.shields.io/sourceforge/dt/anti-afk.svg)](https://sourceforge.net/projects/anti-afk/files/latest/download)
+
 Simple, efficient, minimalist and customizable program to avoid AFK detection, for both mouse and keyboard.
 
 ![Captura de pantalla 2024-04-10 150324](https://github.com/PETEROLO291/Anti-AFK/assets/73500243/e694e258-1314-4fdc-ad9a-0fa1b347fa1a)
